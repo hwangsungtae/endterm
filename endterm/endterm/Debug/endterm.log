@@ -1,0 +1,8 @@
+﻿  endterm.cpp
+C:\Users\songt\source\repos\endterm\endterm\ヘッダー.h(4,1): warning C4005: 'max': マクロが再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(193): message : 'max' の以前の定義を確認してください
+C:\Users\songt\source\repos\endterm\endterm\endterm.cpp(6,1): warning C4005: 'max': マクロが再定義されました。
+C:\Users\songt\source\repos\endterm\endterm\ヘッダー.h(4): message : 'max' の以前の定義を確認してください
+C:\Users\songt\source\repos\endterm\endterm\endterm.cpp(7,1): warning C4005: 'max': マクロが再定義されました。
+C:\Users\songt\source\repos\endterm\endterm\endterm.cpp(6): message : 'max' の以前の定義を確認してください
+  endterm.vcxproj -> C:\Users\songt\source\repos\endterm\Debug\endterm.exe
